@@ -8,9 +8,9 @@ An exploratory data analysis investigating whether generative AI usage is correl
 **Hypothesis:** If AI usage has an impact on academic anxiety, then it is the leading cause of academic burnout.
 
 **Dataset**
-  File: ai_student_impact_dataset.xlsx
-  Size: 50 000, no missing values
-  Key columns: Student_ID, Major_Category
+File: ai_student_impact_dataset.xlsx
+Size: 50 000, no missing values
+Key columns: Student_ID, Major_Category
 Year_of_Study,
 Pre_Semester_GPA,
 Weekly_GenAI_Hours,
