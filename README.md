@@ -1,6 +1,6 @@
 # Impact of AI on Students’ Academic Performance — Exploratory Data Analysis
 
-An exploratory data analysis investigating whether generative AI usage is correlated with academic improvement or decline among university students, and whether AI dependency contributes to burnout and exam anxiety.
+AI has become such a huge part of our existence, in that it has affected so many different aspects, tertiary education being one of them. As a result of its integration ibto our daily lives, I've decided, as a student, to analyse just how much impact it has on people like myself, university students. Below is an exploratory data analysis investigating whether generative AI usage is correlated with academic improvement or decline among university students, and whether AI dependency contributes to burnout and exam anxiety.
 
 ## Research Questions
 
